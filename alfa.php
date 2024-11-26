@@ -1235,7 +1235,7 @@ function showAnimation($name){
 }
 function __showicon($r){
 	$s['btn']='http://solevisible.com/images/btn.png';
-	$s['alfamini']='http://solevisible.com/images/alfamini.png';
+	$s['alfamini']='https://imgur.com/mv2OTRF.png';
 	$s['loader']='https://imgur.com/mv2OTRF.png';
 	//return 'data:image/png;base64,'.__get_resource($s[$r]);
 	return $s[$r];
