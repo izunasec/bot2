@@ -2,7 +2,7 @@
 // Definisikan variabel secara dinamis
 $siteTitle = "🔥 TOTO123 - Situs Gacor 2025 dengan Qris Resmi & Peluang Jackpot Besar!";
 $metaDescription = "Bergabung di TOTO123, situs gacor 2025 dengan sistem Qris resmi! Mainkan game dengan RTP tinggi & peluang jackpot besar. Daftar sekarang!";
-$canonicalUrl = "https://www.writersofusa.com/lp"; // Link resmi
+$canonicalUrl = "https://www.writersofusa.com/toto123"; // Link resmi
 $iconImageUrl = "https://studiointermedia.com/images/2025/03/09/fav.png"; // Favicon
 $ampUrl = "https://mbrew.site/gacor/aslitoto123.html"; // AMP URL
 $imageUrl = "https://studiointermedia.com/images/2025/03/09/aslitoto123.jpeg"; // Gambar utama
