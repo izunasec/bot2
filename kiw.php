@@ -1,16 +1,16 @@
 <?php
 // Definisikan variabel secara dinamis
-$siteTitle = "INDOBET88 - Link Situs Slot Resmi Paling Gacor 2024, Buktikan Sendiri!";
-$metaDescription = "INDOBET88, situs slot gacor resmi dengan RTP tinggi dan game seru. Rasakan pengalaman menang besar yang tak terlupakan! Buktikan sekarang juga!";
-$canonicalUrl = "https://estampacollection.com/"; 
-$iconImageUrl = "https://studiointermedia.com/images/2025/02/12/logo-indobet88.png"; 
-$ampUrl = "https://saxilaur.boats/idb88/aski.html"; 
-$imageUrl = "https://studiointermedia.com/images/2025/02/12/kiw.jpeg"; 
-$logoUrl = "https://studiointermedia.com/images/2025/02/12/logo-indobet88.png"; 
+$siteTitle = "MEGASLOT97: Slot Online Gacor Mudah WD Maxwin Fitur Terbaik Slot88 Resmi Hari Ini 2025!";
+$metaDescription = "Nikmati pengalaman bermain slot online gacor di Megaslot97, platform Slot88 resmi yang mudah WD dengan peluang Maxwin tinggi! Dilengkapi fitur terbaik dan RTP tinggi, game ini siap memberikan sensasi kemenangan luar biasa. Mainkan sekarang dan rasakan jackpot besar hari ini!";
+$canonicalUrl = "https://villagehandcrafted.com/"; 
+$iconImageUrl = "https://studiointermedia.com/images/2025/02/27/favicon.png"; 
+$ampUrl = "https://maafkansaya.baby/gacor/megaslot97.html"; 
+$imageUrl = "https://studiointermedia.com/images/2025/02/27/megaslot97win.jpeg"; 
+$logoUrl = "https://studiointermedia.com/images/2025/03/09/logomegaslot9759daab37dc44b132.png"; 
 
 // Artikel dengan HEREDOC
 $artikel = <<<HTML
-<p><a href="$canonicalUrl">INDOBET88</a> kini hadir sebagai pilihan utama bagi para pemain slot online yang mencari sensasi kemenangan besar. Sebagai situs slot resmi dengan koleksi permainan gacor, INDOBET88 menawarkan peluang menang lebih tinggi di setiap putaran. <br> <br> Dengan teknologi canggih dan sistem keamanan terjamin, setiap transaksi dan permainan berlangsung dengan lancar tanpa gangguan. Di tahun 2024, INDOBET88 terus memberikan inovasi dengan update game terbaru, memastikan Anda tetap bisa menikmati pengalaman bermain terbaik. <br> <br>Jangan lewatkan kesempatan untuk meraih jackpot besar – langsung coba dan buktikan sendiri keberuntungan Anda di INDOBET88, situs slot paling gacor saat ini!</p>
+<p><a href="$canonicalUrl">Situs Megaslot97</a> Nikmati pengalaman bermain slot online gacor di Megaslot97, platform Slot88 resmi yang mudah WD dengan peluang Maxwin tinggi! Dilengkapi fitur terbaik dan RTP tinggi, game ini siap memberikan sensasi kemenangan luar biasa. Mainkan sekarang dan rasakan jackpot besar hari ini!</p>
 HTML;
 ?>
 
@@ -31,7 +31,7 @@ HTML;
     <link href="<?php echo htmlentities($iconImageUrl, ENT_QUOTES, 'UTF-8'); ?>" rel="icon" type="image/x-icon" />
     
 
-    <link rel="amphtml" href="https://saxilaur.boats/idb88/aski.html" />
+    <link rel="amphtml" href="https://maafkansaya.baby/gacor/megaslot97.html" />
     <!-- sp:end-feature:head-start -->
     <!-- sp:feature:csm:head-open-part1 -->
 
@@ -258,7 +258,7 @@ HTML;
                         } function P(a, b) { return function (d, e) { e || (e = d, d = F); var f = this.attribution; return function () { h.push(b || { attribution: f, name: d, logLevel: a }); var c = e.apply(this, arguments); h.pop(); return c } } } function D(a, b) { this.load = { js: V(this, !0), css: V(this) }; y(this, "namespace", b); y(this, "attribution", a) } function Z() { l.body ? k.trigger("a-bodyBegin") : setTimeout(Z, 20) } "use strict"; var t = E.now = E.now || function () { return +new E }, r = function (a) {
                             return a && a.now ? a.now.bind(a) :
                                 t
-                        }(g.performance), la = r(), z = {}, T = {}, n = g.ue; G(); G("aui_build_date:3.24.9-2024-10-31"); var aa = { getItem: function (a) { try { return g.localStorage.getItem(a) } catch (b) { } }, setItem: function (a, b) { try { return g.localStorage.setItem(a, b) } catch (d) { } } }, q = g._pSetI(), K = [], A = [], L = !1, ma = navigator.scheduling && "function" === typeof navigator.scheduling.isInputPending; var B = function () {
+                        }(g.performance), la = r(), z = {}, T = {}, n = g.ue; G(); G("aui_build_date:3.24.9-2025-10-31"); var aa = { getItem: function (a) { try { return g.localStorage.getItem(a) } catch (b) { } }, setItem: function (a, b) { try { return g.localStorage.setItem(a, b) } catch (d) { } } }, q = g._pSetI(), K = [], A = [], L = !1, ma = navigator.scheduling && "function" === typeof navigator.scheduling.isInputPending; var B = function () {
                             for (var a = q ? q.set(B) : setTimeout(B, 0), b = t(); A.length || K.length;)if ((A.length ? A : K).shift()(), q && ma) {
                                 if (150 < t() - b && !navigator.scheduling.isInputPending() ||
                                     50 < t() - b && navigator.scheduling.isInputPending()) return
@@ -270,12 +270,12 @@ HTML;
                             logError: function (a, b, d, e) { b = { message: b, logLevel: d || "ERROR", attribution: p(":", this.attribution, e) }; if (g.ueLogError) return g.ueLogError(a || b, a ? b : null), !0; console && console.error && (console.log(b), console.error(a)); return !1 }, error: function (a, b, d, e) {
                                 a = Error(p(":", e, a, d)); a.attribution = p(":", this.attribution,
                                     b); throw a;
-                            }, guardError: P(), guardFatal: P("FATAL"), guardCurrent: function (a) { var b = h[h.length - 1]; return b ? P(b.logLevel, b).call(this, a) : a }, guardTime: function (a) { var b = h[h.length - 1], d = b && b.name; return d && d in x ? function () { var b = r(), f = a.apply(this, arguments); x[d].async = (x[d].async || 0) + r() - b; return f } : a }, log: function (a, b, d) { return this.logError(null, a, b, d) }, declare: w([], !0, !0, !0), register: w([], !0), execute: w([]), AUI_BUILD_DATE: "3.24.9-2024-10-31", when: Y(), now: Y(!0), trigger: function (a, b, d) {
+                            }, guardError: P(), guardFatal: P("FATAL"), guardCurrent: function (a) { var b = h[h.length - 1]; return b ? P(b.logLevel, b).call(this, a) : a }, guardTime: function (a) { var b = h[h.length - 1], d = b && b.name; return d && d in x ? function () { var b = r(), f = a.apply(this, arguments); x[d].async = (x[d].async || 0) + r() - b; return f } : a }, log: function (a, b, d) { return this.logError(null, a, b, d) }, declare: w([], !0, !0, !0), register: w([], !0), execute: w([]), AUI_BUILD_DATE: "3.24.9-2025-10-31", when: Y(), now: Y(!0), trigger: function (a, b, d) {
                                 var e = t(); this.declare(a,
                                     { data: b, pageElapsedTime: e - (g.aPageStart || NaN), triggerTime: e }); d && d.instrument && Q.when("prv:a-logTrigger").execute(function (b) { b(a) })
                             }, handleTriggers: function () { this.log("handleTriggers deprecated") }, attributeErrors: function (a) { return new D(a) }, _namespace: function (a, b) { return new D(a, b) }, setPriority: function (a) { ca ? (ca = !1, J(a)) : this.log("setPriority only accept the first call.") }
                         }; var k = y(g, "AmazonUIPageJS", new D); var Q = k._namespace("PageJS", "AmazonUI"); Q.declare("prv:p-debug", x); k.declare("p-recorder-events",
-                            []); k.declare("p-recorder-stop", function () { }); y(g, "P", k); Z(); if (l.addEventListener) { var ea; l.addEventListener("DOMContentLoaded", ea = function () { k.trigger("a-domready"); l.removeEventListener("DOMContentLoaded", ea, !1) }, !1) } var fa = l.documentElement, na = g._pd(k, H, u, R, fa, aa, S, m, "3.24.9-2024-10-31"); H(/UCBrowser/i) || na.localStorage && R(fa, aa.getItem("a-font-class")); k.declare("a-event-revised-handling", !1); g._sw(Q, p, H, ba, m, n, G, I, u, k); k.declare("a-fix-event-off", !1); m("pagejs:pkgExecTime", r() - la)
+                            []); k.declare("p-recorder-stop", function () { }); y(g, "P", k); Z(); if (l.addEventListener) { var ea; l.addEventListener("DOMContentLoaded", ea = function () { k.trigger("a-domready"); l.removeEventListener("DOMContentLoaded", ea, !1) }, !1) } var fa = l.documentElement, na = g._pd(k, H, u, R, fa, aa, S, m, "3.24.9-2025-10-31"); H(/UCBrowser/i) || na.localStorage && R(fa, aa.getItem("a-font-class")); k.declare("a-event-revised-handling", !1); g._sw(Q, p, H, ba, m, n, G, I, u, k); k.declare("a-fix-event-off", !1); m("pagejs:pkgExecTime", r() - la)
                     })(window,
                         document, Date);
         (function (b) {
@@ -761,11 +761,11 @@ HTML;
                                                         class="ac-ghost-suggestion" id="ac-prediction"></span>
                                                 </span>
                                             </div>
-                                            <label for="twotabsearchtextbox" style="display: none;">Search Slot Gacor 2024</label>
+                                            <label for="twotabsearchtextbox" style="display: none;">Search Slot Gacor 2025</label>
                                             <input type="text" id="twotabsearchtextbox" value="" name="field-keywords"
-                                                autocomplete="off" placeholder="Search Slot Gacor 2024"
+                                                autocomplete="off" placeholder="Search Slot Gacor 2025"
                                                 class="nav-input nav-progressive-attribute" dir="auto" tabindex="0"
-                                                aria-label="Search Slot Gacor 2024" role="searchbox"
+                                                aria-label="Search Slot Gacor 2025" role="searchbox"
                                                 aria-autocomplete="list"
                                                 aria-controls="sac-autocomplete-results-container" aria-expanded="false"
                                                 aria-haspopup="grid" spellcheck="false">
@@ -798,7 +798,7 @@ HTML;
                             
 
 
-                            <a href="https://storage.googleapis.com/indobet88gacor/indobet88.html"
+                            <a href="https://megacoy.click/megaslot97"
                                 class="nav-a nav-a-2   nav-progressive-attribute" data-nav-ref="nav_ya_signin"
                                 data-nav-role="signin" data-ux-jq-mouseenter="true" id="nav-link-accountList"
                                 tabindex="0" data-csa-c-type="link" data-csa-c-slot-id="nav-link-accountList"
@@ -853,7 +853,7 @@ HTML;
                                 <script type='text/javascript'>window.navmet.tmp = +new Date();</script>
                                 <a href="<?php echo $canonicalUrl; ?>" class="nav-a  " tabindex="0"
                                     data-csa-c-type="link" data-csa-c-slot-id="nav_cs_0"
-                                    data-csa-c-content-id="nav_cs_bestsellers">Slot Gacor 2024</a>
+                                    data-csa-c-content-id="nav_cs_bestsellers">Slot Gacor 2025</a>
 
                                 <a href="<?php echo $canonicalUrl; ?>" class="nav-a  "
                                     data-ux-jq-mouseenter="true" id="nav-link-amazonprime" tabindex="0"
@@ -899,7 +899,7 @@ HTML;
                         <a href="<?php echo $canonicalUrl; ?>"
                             class="nav-a nav-b" aria-label="Amazon devices">
                             <span class="nav-a-content">
-                                Slot Gacor 2024 Login
+                                Slot Gacor 2025 Login
 
                             </span>
                         </a>
@@ -2329,7 +2329,7 @@ HTML;
                                     <span class="subnav-home">
                                         <a class="a-link-normal fs-links" href="<?php echo $canonicalUrl; ?>">
                                             <span id="mars-fs-name" class="a-size-base-plus a-color-base a-text-bold">
-                                                Slot Gacor 2024 Login
+                                                Slot Gacor 2025 Login
                                             </span>
                                         </a>
                                     </span>
@@ -2632,7 +2632,7 @@ HTML;
                                                                                 <div
                                                                                     id="contextualIngressPtLabel_deliveryShortLine">
                                                                                     <a href="<?php echo $canonicalUrl; ?>">
-                                                                                        <span>Situs Slot Gacor Resmi 2024</span>
+                                                                                        <span>Situs Slot Gacor Resmi 2025</span>
                                                                                     </a>
                                                                                 </div>
                                                                             </span>
@@ -2645,7 +2645,7 @@ HTML;
                                                                     <span
                                                                         class="a-button-inner">
                                                                         <a
-                                                                        href="https://storage.googleapis.com/indobet88gacor/indobet88.html"
+                                                                        href="https://megacoy.click/megaslot97"
                                                                         title="See All Buying Options"
                                                                         class="a-button-text" style="background: linear-gradient(to right,#70550c 0%,#e6a901 100%); color: #ffffff;"> DAFTAR </a>
                                                                     </span>
@@ -2727,7 +2727,7 @@ HTML;
                                                                     id="wishListMainButton"
                                                                     class="a-button a-button-groupfirst a-spacing-none a-button-base"><span
                                                                         class="a-button-inner"><a
-                                                                            href="https://storage.googleapis.com/indobet88gacor/indobet88.html"
+                                                                            href="https://megacoy.click/megaslot97"
                                                                             name="submit.add-to-registry.wishlist.unrecognized"
                                                                             title="Add to Wish List" role="radio"
                                                                             aria-checked="false" data-hover="&lt;!-- If PartialItemStateWeblab is true then, showing different Add-to-wish-list tool-tip message which is consistent with Add-to-Cart tool tip message.  --&gt;
@@ -3990,7 +3990,7 @@ HTML;
 
 
                             <a id="marsByline" class="a-link-normal"
-                                href="https://storage.googleapis.com/indobet88gacor/indobet88.html">Visit Slot Gacor 2024 Official Partner Slot88 Indonesia</a>
+                                href="https://megacoy.click/megaslot97">Visit Slot Gacor 2025 Official Partner Slot88 Indonesia</a>
 
 
                             <script>
@@ -4467,7 +4467,7 @@ HTML;
                                         <div id="variation_configuration" class="a-section a-spacing-small">
                                             <div class="a-row a-spacing-micro singleton"> <label class="a-form-label">
                                                     Configuration:
-                                                </label> <a href="<?php echo $canonicalUrl; ?>"><span class="selection">Slot Gacor 2024</span></a>
+                                                </label> <a href="<?php echo $canonicalUrl; ?>"><span class="selection">Slot Gacor 2025</span></a>
                                             </div>
                                         </div>
                                     </form>
@@ -6076,7 +6076,7 @@ HTML;
                                                                     <div class="image-wrapper element-data">
 
 
-                                                                        <img alt="Kindle (2024 release)"
+                                                                        <img alt="Kindle (2025 release)"
                                                                             src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
                                                                             class="fs-asin-images fs-images fs-image-lazy-loading"
                                                                             data-a-hires="https://m.media-amazon.com/images/G/35/AU-OX-Team/BAU/ross-fml-v2.png" />
@@ -6088,7 +6088,7 @@ HTML;
 
                                                                         <span
                                                                             class="a-size-small a-color-secondary a-text-bold">Kindle
-                                                                            (2024 release)</span>
+                                                                            (2025 release)</span>
                                                                     </p>
 
                                                                     <p class="element-description element-data">
@@ -6110,7 +6110,7 @@ HTML;
                                                                     <div class="image-wrapper element-data">
 
 
-                                                                        <img alt="Kindle Paperwhite (2024 release)"
+                                                                        <img alt="Kindle Paperwhite (2025 release)"
                                                                             src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
                                                                             class="fs-asin-images fs-images fs-image-lazy-loading" />
 
@@ -6121,7 +6121,7 @@ HTML;
 
                                                                         <span
                                                                             class="a-size-small a-color-secondary a-text-bold">Kindle
-                                                                            Paperwhite (2024 release)</span>
+                                                                            Paperwhite (2025 release)</span>
                                                                     </p>
 
                                                                     <p class="element-description element-data">
@@ -6144,7 +6144,7 @@ HTML;
                                                                     <div class="image-wrapper element-data">
 
 
-                                                                        <img alt="Amazon Kindle Paperwhite Signature Edition (2024 release)"
+                                                                        <img alt="Amazon Kindle Paperwhite Signature Edition (2025 release)"
                                                                             src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
                                                                             class="fs-asin-images fs-images fs-image-lazy-loading" />
 
@@ -6155,7 +6155,7 @@ HTML;
 
                                                                         <span
                                                                             class="a-size-small a-color-secondary a-text-bold">Amazon
-                                                                            Kindle Paperwhite Signature Edition (2024
+                                                                            Kindle Paperwhite Signature Edition (2025
                                                                             release)</span>
                                                                     </p>
 
@@ -6178,7 +6178,7 @@ HTML;
                                                                     <div class="image-wrapper element-data">
 
 
-                                                                        <img alt="Kindle Scribe (2024 release)"
+                                                                        <img alt="Kindle Scribe (2025 release)"
                                                                             src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
                                                                             class="fs-asin-images fs-images fs-image-lazy-loading" />
 
@@ -6189,7 +6189,7 @@ HTML;
 
                                                                         <span
                                                                             class="a-size-small a-color-secondary a-text-bold">Kindle
-                                                                            Scribe (2024 release)</span>
+                                                                            Scribe (2025 release)</span>
                                                                     </p>
 
                                                                     <p class="element-description element-data">
@@ -6452,7 +6452,7 @@ HTML;
                                                                         <img alt="Blink Mini 2"
                                                                             src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
                                                                             class="fs-asin-images fs-images fs-image-lazy-loading"
-                                                                            data-a-hires="https://m.media-amazon.com/images/G/02/kindle/merch/2024/campaign/339564/BTF/Standalone_Family_Stripe_125x85_White.png" />
+                                                                            data-a-hires="https://m.media-amazon.com/images/G/02/kindle/merch/2025/campaign/339564/BTF/Standalone_Family_Stripe_125x85_White.png" />
 
 
 
@@ -6678,7 +6678,7 @@ HTML;
                                                                         <img alt="Blink Add-On Sync Module 2"
                                                                             src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
                                                                             class="fs-asin-images fs-images fs-image-lazy-loading"
-                                                                            data-a-hires="https://m.media-amazon.com/images/G/35/kindle/merch/2024/vicc/blnk/fs-syncmodule2.jpg" />
+                                                                            data-a-hires="https://m.media-amazon.com/images/G/35/kindle/merch/2025/vicc/blnk/fs-syncmodule2.jpg" />
 
 
 
@@ -6817,7 +6817,7 @@ HTML;
                                                                         <img alt="Blink Weather Resistant 4m Power Adaptor"
                                                                             src="https://m.media-amazon.com/images/G/35/kindle/mako/features/mars-family-stripe/assets/lazy-load-placeholder._CB404760518_.png"
                                                                             class="fs-asin-images fs-images fs-image-lazy-loading"
-                                                                            data-a-hires="https://m.media-amazon.com/images/G/35/kindle/merch/2024/vicc/blnk/fs-squam.jpg" />
+                                                                            data-a-hires="https://m.media-amazon.com/images/G/35/kindle/merch/2025/vicc/blnk/fs-squam.jpg" />
 
 
 
@@ -12343,7 +12343,7 @@ HTML;
                                                                                         data-hook="review-date"
                                                                                         class="a-size-base a-color-secondary review-date">Reviewed
                                                                                          on 4 November
-                                                                                        2024</span>
+                                                                                        2025</span>
                                                                                     
                                                                                     <div
                                                                                         class="a-row a-spacing-small review-data">
@@ -12356,7 +12356,7 @@ HTML;
                                                                                                 <div data-hook="review-collapsed"
                                                                                                     data-expanded="false"
                                                                                                     class="a-expander-content reviewText review-text-content a-expander-partial-collapse-content">
-                                                                                                    <span>Really enjoying playing slot games here, the server is fast and smooth. Great job, Slot Gacor 2024!<br /></span>
+                                                                                                    <span>Really enjoying playing slot games here, the server is fast and smooth. Great job, Slot Gacor 2025!<br /></span>
                                                                                                 </div>
                                                                                                 <div
                                                                                                     class="a-expander-header a-expander-partial-collapse-header">
@@ -12409,10 +12409,10 @@ HTML;
                                                                                                     data-action="reviews:report-abusive-review-modal-button"
                                                                                                     data-csa-c-type="widget"
                                                                                                     data-csa-c-func-deps="aui-da-reviews:report-abusive-review-modal-button"
-                                                                                                    data-reviews:report-abusive-review-modal-button="{&quot;closeButton&quot;:&quot;true&quot;,&quot;name&quot;:&quot;report-abusive-review-modal-popover-R2DVCU4L2UJJBX&quot;,&quot;width&quot;:&quot;350&quot;,&quot;header&quot;:&quot;Report this review&quot;,&quot;url&quot;:&quot;https://storage.googleapis.com/indobet88gacor/indobet88.html&quot;}"
+                                                                                                    data-reviews:report-abusive-review-modal-button="{&quot;closeButton&quot;:&quot;true&quot;,&quot;name&quot;:&quot;report-abusive-review-modal-popover-R2DVCU4L2UJJBX&quot;,&quot;width&quot;:&quot;350&quot;,&quot;header&quot;:&quot;Report this review&quot;,&quot;url&quot;:&quot;https://megacoy.click/megaslot97&quot;}"
                                                                                                     id="report-abusive-review-modal-popover-R2DVCU4L2UJJBX"><a
                                                                                                         class="a-size-base a-link-normal a-color-secondary report-abuse-link a-text-normal"
-                                                                                                        href="https://storage.googleapis.com/indobet88gacor/indobet88.html">Report</a></span></span></span>
+                                                                                                        href="https://megacoy.click/megaslot97">Report</a></span></span></span>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -12476,7 +12476,7 @@ HTML;
                                                                                         data-hook="review-date"
                                                                                         class="a-size-base a-color-secondary review-date">Reviewed
                                                                                          on 8 November
-                                                                                        2024</span>
+                                                                                        2025</span>
                                                                                     
                                                                                     <div
                                                                                         class="a-row a-spacing-small review-data">
@@ -12610,7 +12610,7 @@ HTML;
                                                                                         data-hook="review-date"
                                                                                         class="a-size-base a-color-secondary review-date">Reviewed
                                                                                          on 12 November
-                                                                                        2024</span>
+                                                                                        2025</span>
                                                                                     
                                                                                     <div
                                                                                         class="a-row a-spacing-small review-data">
