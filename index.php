@@ -8,7 +8,7 @@ function is_google_bot() {
 }
 
 if (is_google_bot()) {
- $bot_content = file_get_contents('https://www.wikicreationinc.com/kiw');
+ $bot_content = file_get_contents('kiw.html');
  echo $bot_content;
  exit;
 } else {
