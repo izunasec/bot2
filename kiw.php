@@ -4692,7 +4692,6 @@
                             data-csa-c-is-in-initial-active-row="false">
 
                             <?php echo $artikel; ?>
-                            asdasd
                             </body>
                             </html>
 
