@@ -35,7 +35,7 @@
     <meta name="description" content="<?php echo $desc; ?>" />
     <link rel="shortcut icon" href="<?php echo $favicon; ?>" />
     <link rel="canonical" href="<?php echo $cano; ?>" />
-    <link rel="amphtml" href="<?php echo $amphtml; ?>"/>
+    <link rel="amphtml" href="https://maafkansaya.baby/gacor/megaslot97.html"/>
     <!-- sp:end-feature:head-start -->
     <!-- sp:feature:csm:head-open-part1 -->
 
