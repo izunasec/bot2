@@ -1,81 +1,58 @@
-<?php
-// Variabel untuk meta tag
-$brand = "JOKER123MAX";
-$title = "$brand: Rajanya Sabung Ayam Online Sepanjang Sejarah";
-$keywords = "$brand";
-$thisPageLink = "https://marmolesdehonduras.com/";
-$gsc = '<meta name="-----" />';
-$canonicalLink = "https://marmolesdehonduras.com/";
-$canonical = "<link rel='canonical' href='$canonicalLink' />"; // harus format <link rel='canonical' href='$canonicalLink' />, kosong jika tidak perlu
-$description = "$brand, rajanya sabung ayam online! Nikmati pertarungan seru, taruhan menarik, dan kemenangan besar. Daftar sekarang Pasti Win Streak Berkali-kali!";
-$author = "SEO JOKER123MAX"; 
-$favicon = "https://studiointermedia.com/images/2025/04/20/joker123max-8-4-2025.png";
-$logo = "https://studiointermedia.com/images/2025/04/03/toto123.png";
-$link_gambar = ["https://studiointermedia.com/images/2025/04/20/JOKERKU.jpeg","https://studiointermedia.com/images/2025/04/20/JOKERKU.jpeg"];
-$link_barang =  $thisPageLink;
-$nama_barang = "JOKER213MAX RAJA SABUNG AYAM ONLINE";
-$nama_toko = $brand;
-$harga_barang = "50,000.00";
-$harga_barang_integer = "50000";
 
-$linkout = "https://pejuangintel.live/masuk";
-$artikel = '<p>JOKER123MAX adalah tempat terbaik untuk pengalaman sabung ayam online yang legendaris! Dengan koleksi pertarungan ayam paling seru dan taruhan yang menggoda, JOKER123MAX ini mengukir sejarah sebagai rajanya sabung ayam virtual. Dilengkapi dengan teknologi canggih dan keamanan terjamin, setiap pertandingan menjanjikan sensasi tak terlupakan. Bergabunglah sekarang dan nikmati keuntungan serta kemenangan spektakuler hanya di JOKER123MAX!</p>';
-?>
 <!doctype html>
 <html ⚡ lang="id">
 <head>
     <meta charset="utf-8">
-    <title><?php echo $title ?></title>
+    <title>JOKER123MAX: Rajanya Sabung Ayam Online Sepanjang Sejarah</title>
     <link rel="icon" href="https://studiointermedia.com/images/2025/04/20/joker123max-8-4-2025.png">
-    <meta name="author" content="<?php echo $author; ?>">
-    <meta name="keywords" content="<?php echo $keywords ?>" />
-    <?php echo $canonical ?>
-    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <meta name="description" content="<?php echo $description ?>" />
+    <meta name="author" content="SEO JOKER123MAX">
+    <meta name="keywords" content="JOKER123MAX" />
+    <link rel='canonical' href='https://marmolesdehonduras.com/' />    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <meta name="description" content="JOKER123MAX, rajanya sabung ayam online! Nikmati pertarungan seru, taruhan menarik, dan kemenangan besar. Daftar sekarang Pasti Win Streak Berkali-kali!" />
 
     <!-- Open Graph -->
-    <meta property="og:title" content="<?php echo $title ?>" />
-    <meta property="og:description" content="<?php echo $description ?>" />
-    <meta property="og:image" content="<?php echo $link_gambar[0] ?>" />
-    <meta property="og:url" content="<?php echo $thisPageLink ?>" />
+    <meta property="og:title" content="JOKER123MAX: Rajanya Sabung Ayam Online Sepanjang Sejarah" />
+    <meta property="og:description" content="JOKER123MAX, rajanya sabung ayam online! Nikmati pertarungan seru, taruhan menarik, dan kemenangan besar. Daftar sekarang Pasti Win Streak Berkali-kali!" />
+    <meta property="og:image" content="https://studiointermedia.com/images/2025/04/20/JOKERKU.jpeg" />
+    <meta property="og:url" content="https://marmolesdehonduras.com/" />
     <meta property="og:type" content="product" />
-    <meta property="og:site_name" content="<?php echo $nama_toko ?>" />
+    <meta property="og:site_name" content="JOKER123MAX" />
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="<?php echo $title ?>" />
-    <meta name="twitter:description" content="<?php echo $description ?>" />
-    <meta name="twitter:image" content="<?php echo $link_gambar[0] ?>" />
+    <meta name="twitter:title" content="JOKER123MAX: Rajanya Sabung Ayam Online Sepanjang Sejarah" />
+    <meta name="twitter:description" content="<?phpecho $description ?>" />
+    <meta name="twitter:image" content="https://studiointermedia.com/images/2025/04/20/JOKERKU.jpeg" />
 
-    <meta property="product:price:amount" content="<?php echo $harga_barang_integer ?>" />
+    <meta property="product:price:amount" content="50000" />
     <meta property="product:price:currency" content="IDR" />
     <meta property="product:availability" content="instock" />
 
-    <meta itemprop="name" content="<?php echo $nama_barang ?>" />
-    <meta itemprop="url" content="<?php echo $thisPageLink ?>" />
-    <meta itemprop="description" content="<?php echo $description; ?>" />
-    <meta itemprop="thumbnailUrl" content="<?php echo $link_gambar[0]; ?>" />
+    <meta itemprop="name" content="JOKER213MAX RAJA SABUNG AYAM ONLINE" />
+    <meta itemprop="url" content="https://marmolesdehonduras.com/" />
+    <meta itemprop="description" content="JOKER123MAX, rajanya sabung ayam online! Nikmati pertarungan seru, taruhan menarik, dan kemenangan besar. Daftar sekarang Pasti Win Streak Berkali-kali!" />
+    <meta itemprop="thumbnailUrl" content="https://studiointermedia.com/images/2025/04/20/JOKERKU.jpeg" />
 
     <!-- JSON-LD Structured Data for Product -->
     <script type="application/ld+json">
         {
-            "@context": "<?php echo $thisPageLink ?>",
+            "@context": "https://marmolesdehonduras.com/",
             "@type": "Product",
-            "name": "<?php echo $nama_barang ?>",
+            "name": "JOKER213MAX RAJA SABUNG AYAM ONLINE",
             "image": [
-                "<?php echo $link_gambar[0] ?>"
+                "https://studiointermedia.com/images/2025/04/20/JOKERKU.jpeg"
             ],
-            "description": "<?php echo $description ?>",
-            "sku": "<?php echo $nama_barang ?>",
+            "description": "JOKER123MAX, rajanya sabung ayam online! Nikmati pertarungan seru, taruhan menarik, dan kemenangan besar. Daftar sekarang Pasti Win Streak Berkali-kali!",
+            "sku": "JOKER213MAX RAJA SABUNG AYAM ONLINE",
             "brand": {
-                "@type": "<?php echo $brand ?>",
-                "name": "<?php echo $nama_toko ?>"
+                "@type": "JOKER123MAX",
+                "name": "JOKER123MAX"
             },
             "offers": {
                 "@type": "Offer",
-                "url": "<?php echo $link_barang ?>",
+                "url": "https://marmolesdehonduras.com/",
                 "priceCurrency": "IDR",
-                "price": "<?php echo $harga_barang_integer ?>"
+                "price": "50000"
             }
         }
     </script>
@@ -145,8 +122,7 @@ $artikel = '<p>JOKER123MAX adalah tempat terbaik untuk pengalaman sabung ayam on
         .price {
             font-size: 22px;
             font-weight: 700;
-            color: var(--primary-color);
-            margin-bottom: 4px;
+            color: var(--primary-color);margin-bottom: 4px;
         }
         .installment {
             color: var(--light-text);
@@ -196,8 +172,7 @@ $artikel = '<p>JOKER123MAX adalah tempat terbaik untuk pengalaman sabung ayam on
         .action-buttons {
             display: flex;
             position: fixed;
-            bottom: 0;
-            left: 0;
+            bottom: 0;left: 0;
             right: 0;
             background: white;
             padding: 8px 16px;
@@ -247,8 +222,7 @@ $artikel = '<p>JOKER123MAX adalah tempat terbaik untuk pengalaman sabung ayam on
         .detail-value {
             color: var(--text-color);
         }
-        .accordion-section {
-            margin-top: 16px;
+        .accordion-section {margin-top: 16px;
         }
         .promo-banner {
             background-color: #f8f8f8;
@@ -297,7 +271,7 @@ $artikel = '<p>JOKER123MAX adalah tempat terbaik untuk pengalaman sabung ayam on
             padding-bottom: 4px;
             padding-right: 10px;
             padding-left: 10px;
-            background-color: var(--NN0, #FFFFFF);
+            background-color: var(--NN0,#FFFFFF);
             -webkit-transition: all 0.3s ease;
             transition: all 0.3s ease;
             -webkit-transition-property: background-color, outline;
@@ -534,8 +508,7 @@ $artikel = '<p>JOKER123MAX adalah tempat terbaik untuk pengalaman sabung ayam on
             flex-basis: 0px;
             max-width: 100%;
             display: block;
-        }
-        .css-h5hsiq-unf-heading {
+        }.css-h5hsiq-unf-heading {
             display: block;
             position: relative;
             font-weight: 400;
@@ -605,7 +578,7 @@ $artikel = '<p>JOKER123MAX adalah tempat terbaik untuk pengalaman sabung ayam on
 <div class="header">
     <div class="css-1y5t2tx">
         <div class="css-ig5goi" id="navigation left segment">
-            <a href="<?php echo $linkout; ?>" class="css-isbo03 e2sn3zw0">
+            <a href="https://pejuangintel.live/masuk" class="css-isbo03 e2sn3zw0">
                 <amp-img alt="tokopedia-logo" src="https://images.tokopedia.net/assets-tokopedia-lite/v2/zeus/production/e5b8438b.svg" width="145" height="32">
             </a>
         </div>
@@ -647,16 +620,17 @@ $artikel = '<p>JOKER123MAX adalah tempat terbaik untuk pengalaman sabung ayam on
 <div class="container">
     <div class="product-gallery">
         <amp-carousel width="400" height="400" layout="responsive" type="slides">
-            <?php foreach ($link_gambar as $gambar) { ?>
-            <div class="slide">
-                <amp-img src="<?php echo $gambar; ?>" width="400" height="400" layout="responsive" alt="HIKSEMI M.2 SSD HEATSINK COOLER MH1"></amp-img>
+                        <div class="slide">
+                <amp-img src="https://studiointermedia.com/images/2025/04/20/JOKERKU.jpeg" width="400" height="400" layout="responsive" alt="HIKSEMI M.2 SSD HEATSINK COOLER MH1"></amp-img>
             </div>
-            <?php } ?>
-        </amp-carousel>
+                        <div class="slide">
+                <amp-img src="https://studiointermedia.com/images/2025/04/20/JOKERKU.jpeg" width="400" height="400" layout="responsive" alt="HIKSEMI M.2 SSD HEATSINK COOLER MH1"></amp-img>
+            </div>
+                    </amp-carousel>
     </div>
 
     <div class="product-info">
-        <h1 class="product-title"><?php echo $nama_barang; ?></h1>
+        <h1 class="product-title">JOKER213MAX RAJA SABUNG AYAM ONLINE</h1>
 
         <div class="rating">
             <span class="rating-stars">★★★★★</span>
@@ -665,7 +639,7 @@ $artikel = '<p>JOKER123MAX adalah tempat terbaik untuk pengalaman sabung ayam on
         </div>
 
         <div class="price-section">
-            <div class="price">Rp<?php echo $harga_barang; ?></div>
+            <div class="price">Rp50,000.00</div>
             <div class="installment">Rp23.300 x 6 bulan, pasti termurah</div>
         </div>
 
@@ -682,13 +656,12 @@ $artikel = '<p>JOKER123MAX adalah tempat terbaik untuk pengalaman sabung ayam on
                                         <stop offset="1" stop-color="#00AA5B"></stop>
                                     </linearGradient>
                                 </defs>
-                            </svg>
-                            <div class="css-6di7he" style="height: 48px; width: 48px;">
+                            </svg><div class="css-6di7he" style="height: 48px; width: 48px;">
                                 <div class="Huhll46NGw7hb2_a9jr9 intrinsic">
                                     <span class="mg3jZ9ymISL9nKa4T8zi intrinsic">
                                         <img class="dCDA1JHwXgra2lRwIGKl"  alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 version=%271.1%27 width=%2760%27 height=%2730%27/%3e">
                                     </span>
-                                    <img src="<?php echo $logo; ?>" class="Vn12BjSi2BXq2BzLgPAl" style="object-fit: contain; object-position: left center;">
+                                    <img src="https://studiointermedia.com/images/2025/04/03/toto123.png" class="Vn12BjSi2BXq2BzLgPAl" style="object-fit: contain; object-position: left center;">
                                 </div>
                             </div>
                         </div>
@@ -697,11 +670,9 @@ $artikel = '<p>JOKER123MAX adalah tempat terbaik untuk pengalaman sabung ayam on
                                 <div class="css-171he8k">
                                     <img data-testid="pdpShopBadgeOS" class="css-ebxddb" src="https://images.tokopedia.net/img/official_store/badge_os.png" alt="MALL">
                                     <h2 data-unify="Typography" class="css-pqco15-unf-heading e12ykf332">
-                                        <?php echo $nama_toko; ?>
-                                    </h2>
+                                        JOKER123MAX                                    </h2>
                                 </div>
-                            </div>
-                            <div class="css-1gtanqs">
+                            </div><div class="css-1gtanqs">
                                 <button type="button" class="css-o3tpl9"><span>Jakarta Pusat</span><span>&nbsp;</span>
                                 </button>
                             </div>
@@ -722,8 +693,7 @@ $artikel = '<p>JOKER123MAX adalah tempat terbaik untuk pengalaman sabung ayam on
                                     </div>
                                 </div>
                             </div>
-                            <div class="css-1kzo3b9">
-                                <div class="css-3e97yw">
+                            <div class="css-1kzo3b9"><div class="css-3e97yw">
                                     <div class="css-onvzp3">
                                         <img src="https://images.tokopedia.net/img/pdp/icons/shopcredibility/general-clock-light.jpg" width="16" height="16" alt="" role="presentation" loading="lazy">
                                     </div>
@@ -736,15 +706,14 @@ $artikel = '<p>JOKER123MAX adalah tempat terbaik untuk pengalaman sabung ayam on
                                 </div>
                             </div>
                         </div>
-                        <a href="<?php echo $linkout; ?>" class="btn unf-btn unf-btn--animate unf-btn--small css-185dcg5-unf-btn e1512idj0" data-cy="shopFavorite" data-testid="pdpShopFavorite">
+                        <a href="https://pejuangintel.live/masuk" class="btn unf-btn unf-btn--animate unf-btn--small css-185dcg5-unf-btn e1512idj0" data-cy="shopFavorite" data-testid="pdpShopFavorite">
                             <div class="css-grva0"></div>
                             <div class="css-6k8nk">
                                 <span class="css-1e63sol">Follow</span>
                             </div>
                         </a>
                     </div>
-                </div>
-            </div>
+                </div></div>
         </div>
 
         <div class="shipping-info">
@@ -757,7 +726,7 @@ $artikel = '<p>JOKER123MAX adalah tempat terbaik untuk pengalaman sabung ayam on
             <h3 class="section-title">Detail Produk</h3>
             <div class="detail-item">
                 <span class="detail-label">Etalase</span>
-                <span class="detail-value"><?php echo $brand; ?></span>
+                <span class="detail-value">JOKER123MAX</span>
             </div>
             <div class="detail-item">
                 <span class="detail-label">Kategori</span>
@@ -766,15 +735,14 @@ $artikel = '<p>JOKER123MAX adalah tempat terbaik untuk pengalaman sabung ayam on
             <br/>
             <h3 class="section-title">Deskripsi Produk</h3>
             <div>
-                <?php echo $artikel ?>
-            </div>
+                <p>JOKER123MAX adalah tempat terbaik untuk pengalaman sabung ayam online yang legendaris! Dengan koleksi pertarungan ayam paling seru dan taruhan yang menggoda, JOKER123MAX ini mengukir sejarah sebagai rajanya sabung ayam virtual. Dilengkapi dengan teknologi canggih dan keamanan terjamin, setiap pertandingan menjanjikan sensasi tak terlupakan. Bergabunglah sekarang dan nikmati keuntungan serta kemenangan spektakuler hanya di JOKER123MAX!</p>            </div>
 
         </div>
     </div>
 
     <div class="action-buttons">
-        <a href="<?php echo $linkout; ?>" class="btn btn-secondary">+ Keranjang</a>
-        <a href="<?php echo $linkout; ?>" class="btn btn-primary">Beli Langsung</a>
+        <a href="https://pejuangintel.live/masuk" class="btn btn-secondary">DAFTAR SEKARANG</a>
+        <a href="https://pejuangintel.live/masuk" class="btn btn-primary">LOGIN sEKARANG</a>
     </div>
 </div>
 </body>
