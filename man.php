@@ -21,7 +21,6 @@
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="JOKER123MAX: Rajanya Sabung Ayam Online Sepanjang Sejarah" />
-    <meta name="twitter:description" content="<?phpecho $description ?>" />
     <meta name="twitter:image" content="https://studiointermedia.com/images/2025/04/20/JOKERKU.jpeg" />
 
     <meta property="product:price:amount" content="50000" />
